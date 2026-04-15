@@ -9,7 +9,8 @@ This repository contains the official PyTorch implementation of **WARE-Net**. It
 ## Overall Workflow
 **WARE-Net** is a deep learning-based framework designed for road extraction from high-resolution satellite imagery in West Africa. This framework leverages a dual-stream decoupled architecture based on a visual foundation model, aimed at extracting both paved and unpaved roads with high accuracy. The model has been trained on the **WARE dataset**, the first manually annotated dataset tailored to the unique multi-modal characteristics of West African road networks.
 
-<img width="1579" height="1766" alt="overall" src="https://github.com/user-attachments/assets/acc3a8c5-134d-4a71-a904-74f43d4340de" />
+<img width="789" height="883" alt="overall" src="https://github.com/user-attachments/assets/aa19828f-ef31-4cdb-97b6-a7d93b6d532a" />
+
 The WARE-Net framework operates in the following four major stages:
 
 ### 1. **Data Preparation**
