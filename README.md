@@ -107,9 +107,6 @@ nohup bash run.sh > output.log 2>&1 &
 ## 📝 Citation
 
 If you find this repository or our West Africa road surface product useful for your research, please consider citing our paper:
-## Citation
-
-If you find this work useful, please cite our paper:
 
 ```bibtex
 @article{Lei2026WARE,
