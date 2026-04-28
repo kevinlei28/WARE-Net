@@ -107,9 +107,15 @@ nohup bash run.sh > output.log 2>&1 &
 ## 📝 Citation
 
 If you find this repository or our West Africa road surface product useful for your research, please consider citing our paper:
+## Citation
+
+If you find this work useful, please cite our paper:
+
+```bibtex
 @article{Lei2026WARE,
-title = {WARE-Net: Visual Foundation Model-Based Urban Road Extraction in West Africa from High-Resolution Remote Sensing Imagery},
-author = {Qi Lei †, Jianhua Guo †∗, Xin Sun, Rui Zhang, Dong Liang, Zhongchang Sun, Huadong Guo},
-journal={ISPRS Journal of Photogrammetry and Remote Sensing (Under review)},
-year={2026},
-publisher={Elsevier}
+  title   = {WARE-Net: Visual Foundation Model-Based Urban Road Extraction in West Africa from High-Resolution Remote Sensing Imagery},
+  author  = {Lei, Qi and Guo, Jianhua and Sun, Xin and Zhang, Rui and Liang, Dong and Sun, Zhongchang and Guo, Huadong},
+  journal = {ISPRS Journal of Photogrammetry and Remote Sensing(Under review)},
+  year    = {2026},
+  note    = {Under review}
+}
